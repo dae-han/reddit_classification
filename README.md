@@ -1,4 +1,4 @@
-# Project 3: What do users want in Apple Music?
+# What do users want in Apple Music?
 <img src = "./assets/image/intro_img.jpg" width="300"/>
 
 ### Problem Statement
